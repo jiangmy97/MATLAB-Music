@@ -1,6 +1,10 @@
 # MATLAB-Music
 Use the function sound() to create music.
 
+HOW TO PLAY: 
+1. Download snd.m, tone.m and one of the main music programs.
+2. Run the main music program.
+
 The files with capitalized letters are the main music programs.
 I've uploaded 3 test songs:君は蔷薇より美しい, 北京的金山上 and 一剪梅.
 You could use these models to create your music.
