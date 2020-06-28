@@ -2,7 +2,7 @@
 Use the function sound() to create music.
 
 HOW TO PLAY: 
-1. Download snd.m, tone.m and one of the main music programs.
+1. Download snd.m, tone.m and one of the main music programs (BJDJSS, YJM or KAWAHTAAAA).
 2. Run the main music program.
 
 The files with capitalized letters are the main music programs.
