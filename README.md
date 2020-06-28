@@ -6,7 +6,7 @@ HOW TO PLAY:
 2. Run the main music program.
 
 The files with capitalized letters are the main music programs.
-I've uploaded 3 test songs:君は蔷薇より美しい, 北京的金山上 and 一剪梅.
+I've uploaded 3 test songs:君は蔷薇より美しい(KAWAHTAAAA), 北京的金山上(BJDJSS) and 一剪梅(YJM).
 You could use these models to create your music.
 
 The files with uncapitalized letters are the sub-programs.
@@ -26,4 +26,4 @@ All tones are in this sequence: tone + pitch + rythm.
          '0' for 2 times shorter rythm, '00' for 4 times shorter rythm;
 E.g.  'dh1' for C in higher tone  for longer rythm;
       'll0' for A in lower tone for shorter rythm;
-       'm' for E in base tone for base rythm.
+      'm' for E in base tone for base rythm.
